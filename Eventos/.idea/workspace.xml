@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5166f365-ecd4-471e-93b2-782728f30130" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/br/senai/sc/eventos/CadastroEventoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/br/senai/sc/eventos/CadastroEventoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/br/senai/sc/eventos/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/br/senai/sc/eventos/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/br/senai/sc/eventos/database/DatabaseDBHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/br/senai/sc/eventos/database/DatabaseDBHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/br/senai/sc/eventos/database/EventoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/br/senai/sc/eventos/database/EventoDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/br/senai/sc/eventos/modelo/Evento.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/br/senai/sc/eventos/modelo/Evento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1t0PTmFeVLBk3iSAs9MS1CsRdlx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_4_XL_API_27" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-05-29T14:19:47.007Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/java/br/senai/sc/eventos/database" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Eventos.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5166f365-ecd4-471e-93b2-782728f30130" name="Default Changelist" comment="" />
+      <created>1621903043929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621903043929</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="477" y="266" key="#PSD" timestamp="1622299378217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="477" y="266" key="#PSD/0.0.1920.1040/-1920.2.1920.1040@0.0.1920.1040" timestamp="1622299378217" />
+    <state x="724" y="146" key="#app" timestamp="1622421018239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="724" y="146" key="#app/0.0.1920.1040/-1920.2.1920.1040@0.0.1920.1040" timestamp="1622421018239" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622420893484">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.2.1920.1040@0.0.1920.1040" timestamp="1622420893484" />
+    <state x="710" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1622296992422">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="710" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.2.1920.1040@0.0.1920.1040" timestamp="1622296992422" />
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1622203865996">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.2.1920.1040@0.0.1920.1040" timestamp="1622203865996" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1622421036761">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.2.1920.1040@0.0.1920.1040" timestamp="1622421036761" />
+    <state width="1245" height="400" key="GridCell.Tab.0.bottom" timestamp="1622417561859">
+      <screen x="-1920" y="2" width="1920" height="1040" />
+    </state>
+    <state width="1245" height="400" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.2.1920.1040@-1920.2.1920.1040" timestamp="1622417561859" />
+    <state width="937" height="39" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.2.1920.1040@0.0.1920.1040" timestamp="1622412193537" />
+    <state width="1245" height="400" key="GridCell.Tab.0.center" timestamp="1622417561859">
+      <screen x="-1920" y="2" width="1920" height="1040" />
+    </state>
+    <state width="1245" height="400" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.2.1920.1040@-1920.2.1920.1040" timestamp="1622417561859" />
+    <state width="937" height="39" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.2.1920.1040@0.0.1920.1040" timestamp="1622412193536" />
+    <state width="1245" height="400" key="GridCell.Tab.0.left" timestamp="1622417561859">
+      <screen x="-1920" y="2" width="1920" height="1040" />
+    </state>
+    <state width="1245" height="400" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.2.1920.1040@-1920.2.1920.1040" timestamp="1622417561859" />
+    <state width="937" height="39" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.2.1920.1040@0.0.1920.1040" timestamp="1622412193535" />
+    <state width="1245" height="400" key="GridCell.Tab.0.right" timestamp="1622417561859">
+      <screen x="-1920" y="2" width="1920" height="1040" />
+    </state>
+    <state width="1245" height="400" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.2.1920.1040@-1920.2.1920.1040" timestamp="1622417561859" />
+    <state width="937" height="39" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.2.1920.1040@0.0.1920.1040" timestamp="1622412193536" />
+    <state width="938" height="281" key="GridCell.Tab.1.bottom" timestamp="1622416242835">
+      <screen x="-1920" y="2" width="1920" height="1040" />
+    </state>
+    <state width="938" height="281" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.2.1920.1040@-1920.2.1920.1040" timestamp="1622416242835" />
+    <state width="938" height="281" key="GridCell.Tab.1.center" timestamp="1622416242834">
+      <screen x="-1920" y="2" width="1920" height="1040" />
+    </state>
+    <state width="938" height="281" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.2.1920.1040@-1920.2.1920.1040" timestamp="1622416242834" />
+    <state width="938" height="281" key="GridCell.Tab.1.left" timestamp="1622416242834">
+      <screen x="-1920" y="2" width="1920" height="1040" />
+    </state>
+    <state width="938" height="281" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.2.1920.1040@-1920.2.1920.1040" timestamp="1622416242834" />
+    <state width="938" height="281" key="GridCell.Tab.1.right" timestamp="1622416242835">
+      <screen x="-1920" y="2" width="1920" height="1040" />
+    </state>
+    <state width="938" height="281" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.2.1920.1040@-1920.2.1920.1040" timestamp="1622416242835" />
+    <state x="776" y="298" width="804" height="444" key="chooseDestDirectoryDialog" timestamp="1621942534911">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="776" y="298" width="804" height="444" key="chooseDestDirectoryDialog/0.0.1920.1040/-1920.2.1920.1040@0.0.1920.1040" timestamp="1621942534911" />
+    <state x="-1297" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1622416529094">
+      <screen x="-1920" y="2" width="1920" height="1040" />
+    </state>
+    <state x="-1297" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.2.1920.1040@-1920.2.1920.1040" timestamp="1622416529094" />
+  </component>
+</project>

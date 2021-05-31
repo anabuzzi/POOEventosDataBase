@@ -1,0 +1,26 @@
+br/senai/sc/eventos/CodesEnum.java
+ br.senai.sc.eventos.CodesEnum
+br/senai/sc/eventos/BuildConfig.java
+ br.senai.sc.eventos.BuildConfig
+br/senai/sc/eventos/modelo/Evento.java
+ br.senai.sc.eventos.modelo.Evento
+br/senai/sc/eventos/EventoValidator.java
+ br.senai.sc.eventos.EventoValidator
+br/senai/sc/eventos/database/entity/EventoEntity.java
+ br.senai.sc.eventos.database.entity.EventoEntity
+br/senai/sc/eventos/EditTextParams.java
+ br.senai.sc.eventos.EditTextParams
+br/senai/sc/eventos/database/DatabaseDBHelper.java
+ br.senai.sc.eventos.database.DatabaseDBHelper
+br/senai/sc/eventos/database/DBGateway.java
+ br.senai.sc.eventos.database.DBGateway
+br/senai/sc/eventos/database/contract/EventoContract.java
+ br.senai.sc.eventos.database.contract.EventoContract
+br/senai/sc/eventos/CadastroEventoActivity.java
+ br.senai.sc.eventos.CadastroEventoActivity
+br/senai/sc/eventos/database/EventoDAO.java
+ br.senai.sc.eventos.database.EventoDAO
+br/senai/sc/eventos/MainActivity.java
+ br.senai.sc.eventos.MainActivity
+ br.senai.sc.eventos.MainActivity$1
+ br.senai.sc.eventos.MainActivity$2
